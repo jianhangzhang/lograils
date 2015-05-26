@@ -9,6 +9,3 @@ class GetLogFromRedisJob < ActiveJob::Base
 		x.save
   end
 end
-
-GetLogFromRedisJob.perform_later record
-#GetLogFromRedisJob.set(wait: 10.seconds).perform_later
