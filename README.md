@@ -1,3 +1,4 @@
 # Lograils
-1. ruby 1.9.3
-2. rails 4.2.1
+1. Ruby, 1.9.3
+2. Rails, 4.2.1
+3. Database, Sqlite3 
